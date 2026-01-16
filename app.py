@@ -65,7 +65,7 @@ def process_ai_logic(user_input):
     except Exception as e:
         return f"❌ 오류 발생: {str(e)}"
 
-# --- 채팅 인터페이스 ---
+# --- 채팅 인터페이스 --
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
