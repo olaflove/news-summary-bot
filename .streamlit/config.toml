@@ -1,0 +1,12 @@
+[theme]
+# 사이트 전체 배경색 (하늘색)
+backgroundColor = "#bbdceb"
+
+# 보조 배경색 (입력창 등 - 약간 더 진한 파란색)
+secondaryBackgroundColor = "#ffffff"
+
+# 기본 글자 색상
+textColor = "#15639e"
+
+# 버튼이나 하이라이트 색상 (포인트 파란색)
+primaryColor = "#0989ce"
